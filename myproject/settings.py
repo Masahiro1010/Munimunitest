@@ -31,7 +31,7 @@ SECRET_KEY = "django-insecure-+pu*+yk($pbagyo*vs+hqrl@*8dekc-tp(&(@and30(hbr0n2k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['munimunitest.onrender.com', 'localhost']
 
 
 # Application definition
